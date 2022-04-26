@@ -1,0 +1,3 @@
+{"permissions":[
+"bigquery.datasets.setIamPolicy"
+]}
