@@ -1,0 +1,25 @@
+{
+"permissions": ["vpcaccess.connectors.delete",
+"vpcaccess.connectors.get",
+"vpcaccess.connectors.list",
+"vpcaccess.connectors.use",
+"vpcaccess.locations.list",
+"vpcaccess.operations.get",
+"vpcaccess.operations.list",
+"workflows.callbacks.send",
+"workflows.executions.cancel",
+"workflows.executions.create",
+"workflows.executions.get",
+"workflows.executions.list",
+"workflows.locations.get",
+"workflows.locations.list",
+"workflows.operations.cancel",
+"workflows.operations.get",
+"workflows.operations.list",
+"workflows.workflows.create",
+"workflows.workflows.delete",
+"workflows.workflows.get",
+"workflows.workflows.list",
+"workflows.workflows.update"
+]
+}
